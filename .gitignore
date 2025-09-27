@@ -1,0 +1,7 @@
+trained_model.keras
+__pycache__/
+*.pyc
+*.pkl
+.ipynb_checkpoints/
+.DS_Store
+trained_model.keras
