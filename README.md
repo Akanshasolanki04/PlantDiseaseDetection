@@ -18,7 +18,8 @@ The **Plant Disease Detection System** is a deep learning-based solution designe
 ## 🗂 Dataset
 - Leaf images of **Solanaceous crops** representing **15 disease categories**.  
 - Preprocessed to **128x128 RGB** format to standardize inputs.  
-- Split into **training and validation sets** to ensure robust evaluation.  
+- Split into **training and validation sets** to ensure robust evaluation.
+- The accuracy acheived is 96.67%
 
 ---
 
